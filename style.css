@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: white !important;
+}
+body{
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #092635 !important;
+    
+}
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
+img{
+    width: 65%;
+
+}
+.picture{
+    position: relative;
+    bottom: 6rem;
+}
+#about{
+    background-color: #234a5e !important;
+}
